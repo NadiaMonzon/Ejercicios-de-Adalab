@@ -1,0 +1,25 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.div4{
+    box-sizing: border-box;
+    padding: 10px;
+    border: solid;
+    border: 5px;
+    margin: 0, auto;
+}
+
+.img1{
+    width: 100px;
+    height: 100px;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+}
+.img4{
+    width: 100px;
+    height: 100px;
+}
